@@ -68,6 +68,11 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/a9cd328e-67d4-49cd-968e-a228346f0bca)
 
+![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/2ca21f6b-a987-42c9-a482-85ef05c6d0f5)
+
+### Alterado com sucesso
+
+
 <hr/>
 
 <br/>
@@ -82,6 +87,7 @@ E finalmente, o preço de venda do produto.
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/5a165a8c-0dc4-46e7-b52b-7a2dbed1d5a6)
 
 
+<hr/>
 
 <br/>
 
@@ -95,6 +101,7 @@ E finalmente, o preço de venda do produto.
 
 ### Como só temos 1 produto cadastrado, o relatório imprimiu apenas o celular.
 
+<hr/>
 
 
 <br/>
@@ -108,7 +115,9 @@ E finalmente, o preço de venda do produto.
 ### O programa pede o código do produto, e, ao inserir, imprime o relatório específico do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/060783ce-055f-415a-8eb4-99afae413722)
+<hr/>
 
+<br/>
 
 
 
@@ -122,6 +131,8 @@ E finalmente, o preço de venda do produto.
 
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/db5217d5-cd2d-4d37-8444-9bb4679bbf2a)
+<hr/>
+<br/>
 
 
 
@@ -130,6 +141,8 @@ E finalmente, o preço de venda do produto.
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/7ec887fc-81eb-47c1-8396-ec178b428aa6)
 
 
+<br/>
+<br/>
 
 
 
