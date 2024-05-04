@@ -1,4 +1,5 @@
-## Este é um programa para gerenciamento de estoque em Java. Está bem limitado por enquanto, porém estou trabalhando em novas funcionalidades e melhorar as atuais.
+## Gerenciamento de Estoque
+### Este é um programa para gerenciamento de estoque em Java. Está bem limitado por enquanto, porém estou trabalhando em novas funcionalidades e melhorar as atuais.
 
 
 <br/><br/><br/>
