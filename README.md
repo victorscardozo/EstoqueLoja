@@ -1,5 +1,5 @@
 ## Gerenciamento de Estoque
-### Este é um programa para gerenciamento de estoque em Java. Está bem limitado por enquanto, porém estou trabalhando em novas funcionalidades e melhorar as atuais.
+ Este é um programa para gerenciamento de estoque em Java. Está bem limitado por enquanto, porém estou trabalhando em novas funcionalidades e melhorar as atuais.
 
 
 <br/><br/><br/>
@@ -71,7 +71,7 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/2ca21f6b-a987-42c9-a482-85ef05c6d0f5)
 
-### Alterado com sucesso
+Alterado com sucesso
 
 
 <hr/>
@@ -83,7 +83,7 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/a865ee37-abd8-4ba6-ab7e-b65dbff9db90)
 
-### O programa pede o código do produto que deseja excluir.
+O programa pede o código do produto que deseja excluir.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/5a165a8c-0dc4-46e7-b52b-7a2dbed1d5a6)
 
@@ -100,7 +100,7 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/44953f68-9eaa-426e-a834-d778631bf93d)
 
-### Como só temos 1 produto cadastrado, o relatório imprimiu apenas o celular.
+ Como só temos 1 produto cadastrado, o relatório imprimiu apenas o celular.
 
 <hr/>
 
@@ -113,7 +113,7 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/250c4551-8aed-41d1-a5f8-d75c81d3fccb)
 
-### O programa pede o código do produto, e, ao inserir, imprime o relatório específico do produto.
+O programa pede o código do produto, e, ao inserir, imprime o relatório específico do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/060783ce-055f-415a-8eb4-99afae413722)
 <hr/>
@@ -128,7 +128,7 @@ E finalmente, o preço de venda do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/1be7f9d9-d26a-4e4a-bfc7-b8fcdd78444f)
 
-### O programa pede o código do produto, e, ao inserir, imprime o relatório completo do produto.
+O programa pede o código do produto, e, ao inserir, imprime o relatório completo do produto.
 
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/db5217d5-cd2d-4d37-8444-9bb4679bbf2a)
