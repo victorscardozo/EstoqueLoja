@@ -1,37 +1,48 @@
 ## Este é um programa para gerenciamento de estoque em Java. Está bem limitado por enquanto, porém estou trabalhando em novas funcionalidades e melhorar as atuais.
 
 
-<br/ 45>
+<br/><br/><br/>
+
+
+
 
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/928240ca-ac41-48cb-a090-faa4948ea8cf)
+<br/><br/>
+
+
 
 
 ## 1. Vamos começar escolhendo a opção 1, Incluir Produto:
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/f77f4caa-3992-41c8-8229-3eeb0c2909b4)
 
+<br/>
 
 
 Escolhendo a Opção 1, o programa pedirá primeiro o código do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/1a187b1b-d869-4ea8-a0d1-53243bcf5576)
 
+<br/>
 
 Depois, o nome.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/5e2a400a-f6bf-4c73-8ef4-f533831f7e1b)
 
+<br/>
 
 Depois, a quantidade em estoque do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/2a26fd24-bec9-4d36-a9e5-8ff658205ad1)
+<br/>
 
 
 Agora o preço de custo do produto.
 
 ![image](https://github.com/victorscardozo/EstoqueLoja/assets/124733617/b4930005-46ea-4c96-bfb4-089819ffce9f)
 
+<br/>
 
 E finalmente, o preço de venda do produto.
 
