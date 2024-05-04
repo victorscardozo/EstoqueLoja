@@ -6,7 +6,7 @@ package com.mycompany.mavenproject1;
 public class Produto {
     
     
-//Atributos---------------------------------------------------------------------
+//------------------------------------------------------------------------------
 
     public int codigo;
     public String nome;
@@ -21,7 +21,7 @@ public class Produto {
     
     
     
-//Construtor---------------------------------------------------------------------
+//------------------------------------------------------------------------------
     
     public Produto(int codigo, String nome, int qntd_estoque, float preco_custo, int qntd_vendida, float preco_venda) {
         this.codigo = codigo;
